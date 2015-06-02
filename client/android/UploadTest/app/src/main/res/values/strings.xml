@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Upload Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <array name="change_avatar_action_type"><item>select</item>
+    <item>take</item>
+    </array>
+</resources>
